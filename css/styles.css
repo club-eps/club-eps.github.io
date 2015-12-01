@@ -28,6 +28,10 @@ h1 {
     color: white;
 }
 
+a {
+    text-decoration: none;
+}
+
 button {
     font-size: 1.8em;
     background-color: #FFA000;
